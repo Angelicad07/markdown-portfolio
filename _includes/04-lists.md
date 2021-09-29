@@ -1,3 +1,3 @@
--item Fruit 
--item Vegatables
--item Both
+- Fruit 
+- Vegatables
+- Both
