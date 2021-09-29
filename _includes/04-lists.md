@@ -1,3 +1,3 @@
--Fruit 
--Vegatables
--Both
+*Fruit 
+*Vegatables
+*Both
